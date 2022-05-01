@@ -2,7 +2,5 @@
   name = Vijay Ramchandra Gawade
   email = VijayGawade96@outlook.com
   signingkey = A62C2B8FE18DCACB
-[gpg]
-  program = C:\\Program Files\\Git\\usr\\bin\\gpg.exe
 [commit]
   gpgsign = true
