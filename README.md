@@ -2,4 +2,4 @@
 
 This is template (directories structure) for a New Project
 
-Testing Commits Signature 7
+Testing Commits Signature 8
